@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/itskeanu](https://github.com/itskeanu)
 
-- 💬 Ask me about **Windows server's and creating a network at your home**
+- 💬 Ask me about **Network infrastructure.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
