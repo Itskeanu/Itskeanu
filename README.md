@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'M Keanu</h1>
-<h3 align="center">A learning developer + System manager.</h3>
+<h3 align="center">A learning System manager.</h3>
 
-- 🔭 I’m currently working on **server management**
+- 🔭 I’m currently working on **Network infrastructure**
 
-- 🌱 I’m currently learning **Windows, Linux, Lua, Building networks.**
-
-- 🤝 I’m looking for help with **Learning linux**
+- 🌱 I’m currently learning **Docker, Building networks.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itskeanu](https://github.com/itskeanu)
 
